@@ -1,0 +1,11 @@
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+*.bmp
+lens-*.png
+.vs/
+x64/
+Debug/
+Release/
